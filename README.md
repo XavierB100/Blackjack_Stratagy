@@ -16,7 +16,7 @@ A free, interactive blackjack simulator designed to teach basic strategy and car
 
 ## 📚 How to Use
 
-1. Press "Deal" to begin the game
+1. Press "New Game" to begin the game
 2. Play your hand and view color-coded strategy suggestions
 3. Watch your count and win stats update live
 4. Use the tool to practice optimal blackjack play
