@@ -1,5 +1,3 @@
-# docs/Strategy\_Logic.md
-
 ## Strategy Engine Details
 
 Comprehensive decision engine covering all 550+ decision points for basic strategy.
