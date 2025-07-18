@@ -1,7 +1,3 @@
----
-
-# README.md
-
 # Blackjack Strategy Master
 
 A free, interactive blackjack simulator designed to teach basic strategy and card counting. Built to help players improve their skills with real-time feedback, detailed statistics, and a clean user interface.
