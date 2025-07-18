@@ -1,5 +1,3 @@
-# docs/Future\_Enhancement\_Proposal.md
-
 ## Comprehensive Enhancement Roadmap
 
 Plans to evolve this project from simulator to a professional-grade training platform.
